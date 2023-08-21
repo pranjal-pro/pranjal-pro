@@ -13,7 +13,7 @@ I specialize in a range of programming languages, including <strong>C</strong>, 
 Discover a collection of my projects that showcase my skills and creativity. From crafting responsive personal websites using HTML, CSS, and JavaScript to conceptualizing solutions that merge programming with real-world challenges, my portfolio demonstrates a versatile approach to problem-solving. My portfolio website boasts a fully responsive design, ensuring an optimal viewing experience across a wide range of devices, from desktop computers to smartphones and tablets. The design adapts seamlessly to various screen sizes, ensuring accessibility and engagement for all visitors. Whether you're an industry professional, fellow student, or enthusiast, my portfolio serves as a window into my journey as a programmer and problem solver. Feel free to explore my projects, get in touch, or learn more about my academic background. Thank you for visiting, and I look forward to connecting with you!
 
 <h3>Contact:</h3>
-You can reach me at <a href="mailto:pranjalpro12@gmail.com" target="_top">Email</a> or connect with me on <a href="https://www.linkedin.com/in/pranjalpro12/">Linkdin</a> <a href="https://github.com/pranjal-pro">GitHub</a>. I'm open to collaborations, discussions, and exploring new opportunities.
+You can reach me at <a href="mailto:pranjalpro12@gmail.com" target="_top">Email</a> or connect with me on <a href="https://www.linkedin.com/in/pranjalpro12/">Linkdin</a> or <a href="https://github.com/pranjal-pro">GitHub</a>. I'm open to collaborations, discussions, and exploring new opportunities.
 
 Explore the world through my coding lens – where innovation meets practicality. Let's embark on this journey together!
 
