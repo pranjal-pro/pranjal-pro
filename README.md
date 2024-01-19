@@ -1,33 +1,21 @@
-### Hi there 👋
-<h1>Pranjal Saxena</h1>
 
-Welcome! I'm Pranjal Saxena, a passionate and dedicated third-year Mechanical Engineering student at the <address><strong>Institute of Engineering and Technology (IET)</strong>, Devi Ahilya Vishwavidyalaya, Indore</address>. Here, I invite you to explore my journey, skills, and projects. I welcome you to be a part of my journey to a successful career. Explore my journey, skills, and projects, all brought to life through a seamless and captivating online experience.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranjal_pro_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjalpro12) 
 
-<h3>About Me:</h3>
-Driven by a curiosity for technology and a knack for problem-solving, I've immersed myself in the world of Programming and Web-Development. My academic pursuits in Mechanical Engineering have honed my analytical thinking and attention to detail, which I seamlessly translate into my coding endeavors. Witness the convergence of design and technology through my profile. It's not just a collection of projects; it's an embodiment of my commitment to crafting digital experiences that leave a lasting impression.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranjal-pro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranjal-pro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3>Skills:</h3>
-I specialize in a range of programming languages, including <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong>, and <strong>Python</strong>, each serving as tools in my problem-solving arsenal also I am a quick learner and designer. My web development expertise encompasses <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Bootstrap</strong>, allowing me to craft interactive and visually appealing user experiences. Proficient in Data-Structures and Algorithms along with Object-Oriented Programming, I approach challenges with a methodical mindset and critical thinking. I am a dedicated problem solver with a passion for technology and innovation. Curiosity drives me to explore new challenges and seek creative solutions. Whether it's tackling a complex programming task or applying engineering principles to real-world problems, I thrive on finding answers and pushing boundaries. I approach problem-solving with a structured mindset, breaking down intricate issues into manageable components. I am skilled in using Data-Structures and Algorithms to devise efficient solutions. My ability to think critically, adapt strategies, and persevere through challenges enables me to deliver effective outcomes.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3>Projects:</h3>
-Discover a collection of my projects that showcase my skills and creativity. From crafting responsive personal websites using HTML, CSS, and JavaScript to conceptualizing solutions that merge programming with real-world challenges, my portfolio demonstrates a versatile approach to problem-solving. My portfolio website boasts a fully responsive design, ensuring an optimal viewing experience across a wide range of devices, from desktop computers to smartphones and tablets. The design adapts seamlessly to various screen sizes, ensuring accessibility and engagement for all visitors. Whether you're an industry professional, fellow student, or enthusiast, my portfolio serves as a window into my journey as a programmer and problem solver. Feel free to explore my projects, get in touch, or learn more about my academic background. Thank you for visiting, and I look forward to connecting with you!
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3>Contact:</h3>
-You can reach me at <a href="mailto:pranjalpro12@gmail.com" target="_top">Email</a> or connect with me on <a href="https://www.linkedin.com/in/pranjalpro12/">Linkdin</a> or <a href="https://github.com/pranjal-pro">GitHub</a>. I'm open to collaborations, discussions, and exploring new opportunities.
+---
+[![](https://visitcount.itsvg.in/api?id=pranjal-pro&icon=0&color=12)](https://visitcount.itsvg.in)
 
-Explore the world through my coding lens – where innovation meets practicality. Let's embark on this journey together!
-
-<!--
-**pranjal-pro/pranjal-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
