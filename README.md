@@ -8,14 +8,19 @@
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### ✍️ Random Dev Quote
+#### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-#### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## 🌐 Projects:
+[![Portfolio]]((https://pranjal-pro.github.io/Pranjal-Portfolio/)) <br>
+[![iNFO Tutor]](https://info-tutor.onrender.com/home) <br>
+[![AirBnb]](https://airbnb-rjzj.onrender.com/) <br>
+[![Tic Tac Toe]]((https://pranjal-pro.github.io/Tic-Tac-Toe)) <br>
+[![Simon Says]((https://pranjal-pro.github.io/Simon-Says)) <br>
+Web Clone: [![Amazone]]((https://pranjal-pro.github.io/Amazon-Clone/)) [![Spotify]]((https://pranjal-pro.github.io/Spotify-clone/))
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/pranjalpro12) <br>
+[![LinkedIn]](https://linkedin.com/in/pranjalpro12) <br>
 [![E-Mail](https://img.shields.io/badge/G&ndash;Mail-%230077B5.svg?logo=gmail&logoColor=white&color=black)](mailto:pranjalpro12@gmail.com) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?logo=github&logoColor=white&color=black)](https://linkedin.com/in/pranjalpro12) <br>
 [![E-Mail](https://img.shields.io/badge/G&ndash;Mail-%230077B5.svg?logo=gmail&logoColor=white&color=black)](mailto:21bmc040@ietdavv.edu.in) <br>
