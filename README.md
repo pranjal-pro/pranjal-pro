@@ -12,12 +12,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Projects:
-[![Portfolio]]((https://pranjal-pro.github.io/Pranjal-Portfolio/)) <br>
-[![iNFO Tutor]](https://info-tutor.onrender.com/home) <br>
-[![AirBnb]](https://airbnb-rjzj.onrender.com/) <br>
-[![Tic Tac Toe]]((https://pranjal-pro.github.io/Tic-Tac-Toe)) <br>
-[![Simon Says]((https://pranjal-pro.github.io/Simon-Says)) <br>
-Web Clone: [![Amazone]]((https://pranjal-pro.github.io/Amazon-Clone/)) [![Spotify]]((https://pranjal-pro.github.io/Spotify-clone/))
+Portfolio Project: <a herf="https://pranjal-pro.github.io/Pranjal-Portfolio/">Portfolio</a> <br> 
+MERN stack Projects: <a herf="https://info-tutor.onrender.com/">iNFO Tutor</a>, 
+<a herf="https://airbnb-rjzj.onrender.com">AirBnb </a><br>
+JavaScript Projects: <a herf="https://pranjal-pro.github.io/Tic-Tac-Toe">Tic Tac Toe </a>, <a herf="https://pranjal-pro.github.io/Simon-Says">Simon Says </a> <br>
+Web Clone (HTML & CSS Projects): <a herf="https://pranjal-pro.github.io/Amazon-Clone">Amazone </a>, <a herf="https://pranjal-pro.github.io/Spotify-clone">Spotify </a>
 
 ## 🌐 Socials:
 [![LinkedIn]](https://linkedin.com/in/pranjalpro12) <br>
