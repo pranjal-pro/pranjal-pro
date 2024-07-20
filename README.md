@@ -12,20 +12,16 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Projects:
-Portfolio Project: <a herf="https://pranjal-pro.github.io/Pranjal-Portfolio/">Portfolio</a> <br> 
-MERN stack Projects: <a herf="https://info-tutor.onrender.com/">iNFO Tutor</a>, 
-<a herf="https://airbnb-rjzj.onrender.com">AirBnb </a><br>
-JavaScript Projects: <a herf="https://pranjal-pro.github.io/Tic-Tac-Toe">Tic Tac Toe </a>, <a herf="https://pranjal-pro.github.io/Simon-Says">Simon Says </a> <br>
-Web Clone (HTML & CSS Projects): <a herf="https://pranjal-pro.github.io/Amazon-Clone">Amazone </a>, <a herf="https://pranjal-pro.github.io/Spotify-clone">Spotify </a>
+Portfolio Project: [Portfolio](https://pranjal-pro.github.io/Pranjal-Portfolio) <br> 
+MERN stack Projects: [iNFO Tutor](https://info-tutor.onrender.com), [AirBnb](https://airbnb-rjzj.onrender.com)<br>
+JavaScript Projects: [Tic Tac Toe](https://pranjal-pro.github.io/Tic-Tac-Toe), [Simon Says](https://pranjal-pro.github.io/Simon-Says)<br>
+Web Clone (HTML & CSS Projects): [Amazone](https://pranjal-pro.github.io/Amazon-Clone), [Spotify](https://pranjal-pro.github.io/Spotify-clone)
 
 ## 🌐 Socials:
-[![LinkedIn]](https://linkedin.com/in/pranjalpro12) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/pranjalpro12) <br>
 [![E-Mail](https://img.shields.io/badge/G&ndash;Mail-%230077B5.svg?logo=gmail&logoColor=white&color=black)](mailto:pranjalpro12@gmail.com) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?logo=github&logoColor=white&color=black)](https://linkedin.com/in/pranjalpro12) <br>
 [![E-Mail](https://img.shields.io/badge/G&ndash;Mail-%230077B5.svg?logo=gmail&logoColor=white&color=black)](mailto:21bmc040@ietdavv.edu.in) <br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white&color=black)](https://leetcode.com/pranjalpro/) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&color=black)](https://instagram.com/pranjal_pro_)<br>
-
----
-[![](https://visitcount.itsvg.in/api?id=pranjal-pro&icon=0&color=12)](https://visitcount.itsvg.in)
 
